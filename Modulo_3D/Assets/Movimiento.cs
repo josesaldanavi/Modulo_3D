@@ -55,6 +55,7 @@ public class Movimiento : MonoBehaviour {
         }else{
             rege = true;
         }
+        
         if (maxHp > life && rege)
         {
             life++;
